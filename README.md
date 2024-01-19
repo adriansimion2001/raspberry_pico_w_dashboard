@@ -1,1 +1,1 @@
-# raspberry_pico_w_dashboard
+# Proiect raspberry_pico_w_dashboard
