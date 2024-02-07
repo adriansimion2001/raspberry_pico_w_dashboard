@@ -2,8 +2,8 @@
 import network, utime
 
 # Replace the following with your WIFI Credentials
-SSID = "xiaomi"
-SSI_PASSWORD = "misu1234"
+SSID = "INSERT SSID HERE"
+SSI_PASSWORD = "INSERT PASSWORD HERE"
 
 def do_connect():
     import network
