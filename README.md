@@ -13,7 +13,13 @@ What you need:
   1) Raspberry pico w board (este necesara versiunea w deoarece ne folosim de functionalitatea wireless a microcontroller-ului).
   2) O retea wi-fi (o retea wi-fi locala sau un hotspot wireless).
 
-How to use:
+How to setup:
   1) Placa raspberry pico w se conecteaza la computer printr-un calbu usb -> micro usb.
   2) Folosind Thonny se completeaza campurile SSID si SSI_PASSWORD din fisierul boot.py cu datele corespunzatoare retelei wi-fi utilizate.
   3) Se recomplieazaa codul si se ruleaza, dupa modificarile facute placa poate fi alimentata si de la un acumulator extern, fara a necesita un computer.
+  4) Se copiaza adresa IP aparuta in consola compilatorului intr-un browser pentru a putea accesa pagina principala.
+
+How to use:
+  1) Pagina principala prezinta un indicator pentru Data si ora, Un api pentru vreme (se poate configura in fisierele html).
+  2) Folosind butonul ADD putem configura pinii GPIO ca intrari sau iesiri digitale.
+  3) Folosind butonul REMOVE putem elimina butoanele/indicatoarele introduse.
