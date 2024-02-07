@@ -2,10 +2,10 @@
 
 Dashboard-ul a fost realizat utilizand framework-ul microdot, cat si librari uzuale micropython (ex. machine pentru controlul GPIO).
 
+<img alt="image" src="https://github.com/adriansimion2001/raspberry_pico_w_dashboard/assets/108823792/ca4c2183-8c06-483d-b0b1-e364c53da548">
 <img width="343" alt="image" src="https://github.com/adriansimion2001/raspberry_pico_w_dashboard/assets/108823792/58dbf094-73df-4c82-b61d-43747916eacb">
 <img width="343" alt="image" src="https://github.com/adriansimion2001/raspberry_pico_w_dashboard/assets/108823792/850d3d59-9451-4adc-a699-e7c038aff709">
 <img width="343" alt="image" src="https://github.com/adriansimion2001/raspberry_pico_w_dashboard/assets/108823792/531004b9-a1b6-438c-b8e7-7233731f4084">
-<img width="392" alt="image" src="https://github.com/adriansimion2001/raspberry_pico_w_dashboard/assets/108823792/ca4c2183-8c06-483d-b0b1-e364c53da548">
 
 
 
