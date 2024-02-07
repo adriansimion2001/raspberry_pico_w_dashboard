@@ -23,3 +23,6 @@ How to use:
   1) Pagina principala prezinta un indicator pentru Data si ora, Un api pentru vreme (se poate configura in fisierele html).
   2) Folosind butonul ADD putem configura pinii GPIO ca intrari sau iesiri digitale.
   3) Folosind butonul REMOVE putem elimina butoanele/indicatoarele introduse.
+
+Bibliografie:
+  - Proiectul se bazeaza pe repository-ul lui donskytech : rpi-pico-w-bme280-weather-station (https://github.com/donskytech/rpi-pico-w-bme280-weather-station)
